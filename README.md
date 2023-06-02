@@ -18,7 +18,7 @@ pip install -r requirements.txt
 
 ## OpenAI API Key 
 
-You will need the OpenAI API key to run this, get your OpenAI key from [here](https://platform.openai.com/account/api-keys)
+You will need the OpenAI API key to run this, get your HuggingFace key from [here](https://huggingface.co/settings/tokens)
 In the `.env` set your API key. 
 
 ```shell
