@@ -1,7 +1,8 @@
 # Chat-App-OpenAssistant-API
 A quick tutorial on how to interact with Open Assistant API and use it in your own Apps. GUI is based on streamlit. 
 
-![ChatApp](https://github.com/PromtEngineer/Chat-App-OpenAssistant-API/assets/134474669/a0711f2a-f262-4f34-a76f-4729f8b9ee3f)
+![ChatApp](https://github.com/PromtEngineer/Chat-App-OpenAssistant-API/assets/134474669/dbcd36be-55f5-44e6-b3e7-1c1eb110d854)
+
 
 ## Clone the Repo:
 Clone the repository. 
