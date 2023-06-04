@@ -58,7 +58,7 @@ def main():
         
         prompt = PromptTemplate(template=template, input_variables=["question"])
 
-        llm=HuggingFaceHub(repo_id="OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5", model_kwargs={"temperature":0, "max_new_tokens":2000})
+        llm=HuggingFaceHub(repo_id="OpenAssistant/oasst-sft-4-pythia-12b-epoch-3.5", model_kwargs={"max_new_tokens":1200})
 
         llm_chain=LLMChain(
             llm=llm,
